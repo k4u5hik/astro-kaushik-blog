@@ -24,5 +24,3 @@ I have a few hobbies
 - International foods, herbs and Spices
 - Game of Thrones, LOTR
 - Reading old news and books
-
-you can get in touch with me via [email](mailto:attherate@gmail.com).
