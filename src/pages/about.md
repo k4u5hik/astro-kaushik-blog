@@ -25,4 +25,4 @@ I have a few hobbies
 - Game of Thrones, LOTR
 - Reading old news and books
 
-you can get in touch with me via [email](mailto:contact@satnaing.dev).
+you can get in touch with me via [email](mailto:attherate@gmail.com).
