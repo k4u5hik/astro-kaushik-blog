@@ -45,6 +45,12 @@ export const SOCIALS: SocialObjects = [
     active: false,
   },
   {
+    name: "Mastodon",
+    href: "https://mastodon.social/@kaushikc",
+    linkTitle: `${SITE.title} on Mastodon`,
+    active: true,
+  },
+  {
     name: "Twitter",
     href: "https://www.twitter.com/_Kaushik",
     linkTitle: `${SITE.title} on Twitter`,
@@ -127,12 +133,6 @@ export const SOCIALS: SocialObjects = [
     href: "https://github.com/k4u5hik",
     linkTitle: `${SITE.title} on Telegram`,
     active: false,
-  },
-  {
-    name: "Mastodon",
-    href: "https://mastodon.social/@kaushikc",
-    linkTitle: `${SITE.title} on Mastodon`,
-    active: true,
   },
   {
     name: "Mail",
