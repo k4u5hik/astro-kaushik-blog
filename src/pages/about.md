@@ -5,7 +5,7 @@ title: "About"
 
 Hi, I'm Kaushik.
 
-I'm a freelance accountant, bookkeeper and business owner from Sydney, Australia. In my free time I usually like to play with tech and learn martial arts.
+I'm a freelance accountant, bookkeeper and business owner from Sydney, Australia. Completed my MBA in 2007 from the University of Technology Sydney and continuing education since. In my free time I usually like to play with tech and learn martial arts.
 
 <div>
   <img src="/assets/kaushik.png" class="sm:w-1/2 mx-auto" alt="kaushik">
