@@ -20,7 +20,7 @@ Actively upgrading and sharpening my computing skills, battling imposter syndrom
 - Apartment Gardening
 - Composting and Permaculture
 - Watching Birds and Small Animals
-- DIY and Renovation, ancient tools and engineering
-- International foods, herbs and Spices
+- DIY, Renovation, Ancient tools and engineering
+- International foods, Herbs and Spices
 - Game of Thrones, LOTR
-- Reading classical literature
+- Reading classical literature, trawling through the journals and archives
