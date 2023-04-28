@@ -5,15 +5,15 @@ title: "About"
 
 Hi, I'm Kaushik.
 
-I'm a freelance accountant, bookkeeper and business owner from Sydney, Australia. Completed my MBA in 2007 from the University of Technology Sydney and continuing education since. In my free time I usually like to play with tech and learn martial arts.
+I'm a freelance bookkeeper and operate a business services and  consulting from Sydney, Australia. MBA, Professional Accountancy Major from University of Technology Sydney, 2007.
+
+Actively upgrading and sharpening my computing skills, battling imposter syndrome and grinding anyway.
 
 <div>
   <img src="/assets/kaushik.png" class="sm:w-1/2 mx-auto" alt="kaushik">
 </div>
 
-## Hobbies
-
-I have a few hobbies
+## I like to talk about
 
 - Brazilian Jiu-jitsu, Wrestling and Judo
 - Planted Aquariums
@@ -23,4 +23,4 @@ I have a few hobbies
 - DIY and Renovation, ancient and indegenous technology
 - International foods, herbs and Spices
 - Game of Thrones, LOTR
-- Reading old news and books
+- Reading old books
