@@ -3,7 +3,7 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://kaushik.au/",
   author: "Kaushik Chemburkar",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  desc: "Notes for my reference",
   title: "kaushik.au",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
