@@ -13,7 +13,7 @@ Actively upgrading and sharpening my computing skills, battling imposter syndrom
   <img src="/assets/kaushik.png" class="sm:w-1/2 mx-auto" alt="kaushik">
 </div>
 
-## I like to talk about
+## Things that spark my curiosity
 
 - Brazilian Jiu-jitsu, Wrestling and Judo
 - Planted Aquariums
