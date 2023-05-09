@@ -69,7 +69,7 @@ ffmpeg -i input.mp4 -i watermark.png -filter_complex "[1][0]scale2ref=oh*mdar:ih
 
 `=oh*mdar:ih*0.2`: These are the options for the `scale2ref` filter.
 
-`oh*mdar`: This scales the width of the watermark. oh refers to the original height of the first input (the video), and `mdar` (main display aspect ratio) is the aspect ratio of the first input. This ensures that the watermark retains its original aspect ratio when scaled.
+`oh*mdar`: This scales the width of the watermark. `oh` refers to the original height of the first input (the video), and `mdar` (main display aspect ratio) is the aspect ratio of the first input. This ensures that the watermark retains its original aspect ratio when scaled.
 `ih*0.2`: This scales the height of the watermark to 20% of the height of the video. `ih` refers to the input height of the first input (the video).
 `[logo][video]`: These are output labels. The scaled watermark is labeled as `logo`, and the unscaled video is labeled as `video`. These labels are used later in the command to refer to these specific streams.
 
