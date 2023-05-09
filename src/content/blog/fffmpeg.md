@@ -52,3 +52,17 @@ ffmpeg -f concat -safe 0 -i input_files.txt -c copy output_video.mp4
 `-safe 0`: Allows usage of absolute file paths and disables the safe mode for the concat demuxer. Set it to 1 if you are using relative paths in the text file.
 `-i input_files.txt`: Specifies the input text file containing the list of video files.
 `-c copy`: Copies the streams (video, audio, and others) from the input files without re-encoding them.
+
+## Watermarking Videos
+
+This command first scales the watermark to 20% of the video height while maintaining its aspect ratio, then overlays the scaled watermark to the bottom right corner of the video.
+
+```bash
+ffmpeg -i input.mp4 -i watermark.png -filter_complex "[1][0]scale2ref=oh*mdar:ih*0.2[logo][video];[video][logo]overlay=W-w-10:H-h-10" output_scaled.mp4
+```
+
+### Explanation
+
+`W-w-10:H-h-10` positions the watermark 10 pixels from the bottom right corner of the video. You can adjust the 10 value to increase or decrease the margin.
+`W and H` represent the width and height of the video.
+`w` and `h` represent the width and height of the watermark.
