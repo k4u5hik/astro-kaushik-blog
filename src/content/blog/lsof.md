@@ -12,7 +12,7 @@ tags:
   - linux
 ogImage: ""
 description:
-  Useful lsof commands
+  lsof - list open files
 ---
 
 1. View the top 10 processes with the most open files on your system.
@@ -44,3 +44,5 @@ description:
     ```bash
     lsof -n | cut -f1 -d' ' | sort | uniq -c | sort -k2,2
     ```
+
+[lsof Man Page](https://man7.org/linux/man-pages/man8/lsof.8.html)
