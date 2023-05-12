@@ -31,4 +31,4 @@ find /path/to/start -name "node_modules" -type d -prune -exec rm -rf {} +
 
 `-prune`: This prevents find from descending into the current file. This is needed because if `find` descends into the directory before deleting it, it can cause errors.
 
-`-exec rm -rf {} +`: This tells `find` to execute the `rm -rf` command (which deletes directories) on each directory it finds. The `{}` is replaced by the current file name.
+`-exec rm -rf {} +`: This tells `find` to execute the `rm -rf` command (which deletes directories) on each directory it finds. The `{}` is replaced by the current file name. Including the `+` passes the list of directories to a single `rm -rf` command instead of running it on each directory individually as [explained here](https://stackoverflow.com/questions/46037728/find-all-node-modules-directories?noredirect=1&lq=1).
