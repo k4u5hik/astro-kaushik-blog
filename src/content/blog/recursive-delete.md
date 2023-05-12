@@ -13,6 +13,8 @@ description:
   A terminal command to delete all 'node_modules' or any other folders recursively.
 ---
 
+As I am using a 256GB hard-drive, I often need to free up space. I have many projects on my computer, and each project has a `node_modules` folder. These folders can take up a lot of space, so I often delete them. However, I don't want to go through each project and delete the `node_modules` folder manually. So I [found a terminal command on stackoverdlow](https://stackoverflow.com/questions/42950501/delete-node-modules-folder-recursively-from-a-specified-path-using-command-line) to do it for me.
+
 ```bash
 find /path/to/start -name "node_modules" -type d -prune -exec rm -rf {} +
 ```
