@@ -9,10 +9,10 @@ tags:
   - api
 ogImage: ""
 description:
-  Simple ways to use APIs
+  Quickest way to use a basic API feature.
 ---
 
-I would like to show a quick way to apply a basic and fun API feature on your website.
+Presuming you have the knowledge of basic HTML and JavaScript, I would like to show a quick way to apply a basic and fun API feature on your website.
 
 You can browse through the [list of Public APIs](https://github.com/public-apis/public-apis) to find an API that you want to use.
 
