@@ -12,11 +12,11 @@ description:
   Simple ways to use APIs
 ---
 
-I would like to show a quick way anyone can apply a basic API on their website.
+I would like to show a quick way to apply a basic and fun API feature on your website.
 
 You can browse through the [list of Public APIs](https://github.com/public-apis/public-apis) to find an API that you want to use.
 
-For keeping it simple and for this example, I will be using the [Dog Facts API](https://kinduff.github.io/dog-api/). This API returns a random dog fact in JSON format.
+For keeping it simple, I will be using the [Dog Facts API](https://kinduff.github.io/dog-api/). This API returns a random dog fact in JSON format.
 
 **Step 1:** Go to [JSFiddle](https://jsfiddle.net/) and paste the following code:
 
