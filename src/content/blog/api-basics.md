@@ -16,7 +16,9 @@ You can browse through the [list of Public APIs](https://github.com/public-apis/
 
 For this example, I will be using the [Dog Facts API](https://kinduff.github.io/dog-api/). This API returns a random dog fact in JSON format.
 
-Go to [JSFiddle](https://jsfiddle.net/) and paste the following code:
+**Step 1:** Go to [JSFiddle](https://jsfiddle.net/) and paste the following code:
+
+**Step 2:** Paste the following code in the HTML and JavaScript section
 
 `index.html`
 
@@ -71,6 +73,6 @@ document.getElementById('loadData').addEventListener('click', function() {
 });
 ```
 
-Press the button and you should see a random dog fact appear on the screen. You can press the button again to get a new fact.
+**Step 3:** Press the button and you should see a random dog fact appear on the screen. You can press the button again to get a new fact.
 
 With apis access you can display the data, store, sort, filter it, combine with other apis and perform calculations to update the DOM.
