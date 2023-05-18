@@ -12,13 +12,15 @@ description:
   Simple ways to use APIs
 ---
 
+I would like to show a quick way anyone can apply a basic API on their website.
+
 You can browse through the [list of Public APIs](https://github.com/public-apis/public-apis) to find an API that you want to use.
 
-For this example, I will be using the [Dog Facts API](https://kinduff.github.io/dog-api/). This API returns a random dog fact in JSON format.
+For keeping it simple and for this example, I will be using the [Dog Facts API](https://kinduff.github.io/dog-api/). This API returns a random dog fact in JSON format.
 
 **Step 1:** Go to [JSFiddle](https://jsfiddle.net/) and paste the following code:
 
-**Step 2:** Paste the following code in the HTML and JavaScript section
+**Step 2:** Paste the following code in the HTML and JavaScript section and read the comments in the code for more information. You may edit the code to suit your needs.
 
 `index.html`
 
@@ -75,4 +77,4 @@ document.getElementById('loadData').addEventListener('click', function() {
 
 **Step 3:** Press the "Load a Random Dog Fact" button on the preview window and you should see a random dog fact appear on the screen. You can press the button again to get a new fact.
 
-With apis access you can display the data, store, sort, filter it, combine with other apis and perform calculations to update the DOM.
+With api access you can display the data, store, sort, filter it, combine with other apis and perform calculations to update the DOM.
