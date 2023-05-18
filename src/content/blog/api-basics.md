@@ -73,6 +73,6 @@ document.getElementById('loadData').addEventListener('click', function() {
 });
 ```
 
-**Step 3:** Press the button and you should see a random dog fact appear on the screen. You can press the button again to get a new fact.
+**Step 3:** Press the "Load a Random Dog Fact" button on the preview window and you should see a random dog fact appear on the screen. You can press the button again to get a new fact.
 
 With apis access you can display the data, store, sort, filter it, combine with other apis and perform calculations to update the DOM.
