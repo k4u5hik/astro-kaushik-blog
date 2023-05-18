@@ -22,7 +22,7 @@ For keeping it simple and for this example, I will be using the [Dog Facts API](
 
 **Step 2:** Paste the following code in the HTML and JavaScript section and read the comments in the code for more information. You may edit the code to suit your needs.
 
-`index.html`
+**`index.html`**
 
 ```html
 <!DOCTYPE html>
@@ -44,7 +44,7 @@ For keeping it simple and for this example, I will be using the [Dog Facts API](
 </html>
 ```
 
-`main.js`
+**`main.js`**
 
 ```js
 document.getElementById('loadData').addEventListener('click', function() {
