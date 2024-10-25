@@ -5,9 +5,9 @@ title: "About"
 
 Hi, I'm Kaushik.
 
-I'm a freelance bookkeeper and operate a  business consulting and solutions service from Sydney, Australia. MBA, Professional Accountancy Major from University of Technology Sydney, 2007.
+Accountant and consultant from Sydney, Australia. MBA, Professional Accountancy Major from University of Technology Sydney, 2007.
 
-Actively sharpening my programming skills towards creating health and finance applications that are geared towards data-driven decision making.
+Actively sharpening my programming skills towards creating operations, health and accounting applications that are geared towards data-driven decision making.
 
 <div>
   <img src="/assets/kaushik.png" class="sm:w-1/2 mx-auto" alt="kaushik">
