@@ -7,7 +7,7 @@ Hi, I'm Kaushik.
 
 Accountant and consultant from Sydney, Australia. MBA, Professional Accountancy Major from University of Technology Sydney, 2007.
 
-Actively sharpening my programming skills to create tools for myself to help me with the operations, health, and accounting and help me improve my efficiency and enabling data-driven decisions.
+Actively sharpening my programming skills to create tools for myself to help me with my work, health, and accounting and help me improve my efficiency and also help me  organise my data better.
 
 <div>
   <img src="/assets/kaushik.png" class="sm:w-1/2 mx-auto" alt="kaushik">
